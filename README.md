@@ -28,8 +28,8 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Name : S.ABHISHEK</h1>
-<h2>21004552 </h2>
+<h1>Name :R Hemapriya</h1>
+<h2>21004884 </h2>
 <h3>Dept.:Artificial Intelligence and Data Science</h3>
 </body>
 </html>
@@ -47,7 +47,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![GitHub Logo](WEB_SERVER_SC.png)
+![GitHub Logo](R Hemapriya SC.png)
 
 ## RESULT:
 Program Finished Successfully 
