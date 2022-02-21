@@ -47,7 +47,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![GitHub Logo](R Hemapriya SC.png)
+![output](https://github.com/Hemapriya-2004/Web_server/blob/main/web%20server.PNG?raw=true)
 
 ## RESULT:
 Program Finished Successfully 
